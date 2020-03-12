@@ -19,7 +19,7 @@ class Lion implements Animal{
     }
     
     public void laugh(){
-        System.out.println("Lion is walking");
+        System.out.println("Lion is laughing");
     }
     
 }
